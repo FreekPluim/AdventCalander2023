@@ -1,0 +1,14 @@
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\bin\Debug\netcoreapp3.1\Advent2023.exe
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\bin\Debug\netcoreapp3.1\Advent2023.deps.json
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\bin\Debug\netcoreapp3.1\Advent2023.runtimeconfig.json
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\bin\Debug\netcoreapp3.1\Advent2023.runtimeconfig.dev.json
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\bin\Debug\netcoreapp3.1\Advent2023.dll
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\bin\Debug\netcoreapp3.1\Advent2023.pdb
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.csproj.AssemblyReference.cache
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.GeneratedMSBuildEditorConfig.editorconfig
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.AssemblyInfoInputs.cache
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.AssemblyInfo.cs
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.csproj.CoreCompileInputs.cache
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.dll
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.pdb
+D:\PersonalProjects\Advent\2023\AdventCalander2023\Advent2023\obj\Debug\netcoreapp3.1\Advent2023.genruntimeconfig.cache
